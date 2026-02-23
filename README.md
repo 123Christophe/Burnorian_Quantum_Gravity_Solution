@@ -12,7 +12,7 @@ This repository provides the core Python implementation that:
 This code directly supports the findings presented in the published paper:
 **"The Burnorian Solution: A Complete and Singularity-Free Quantum Gravity Framework"**
 **Author:** Christopher R. Burnor
-**Published on:** Figshare
+**Published on:** https://doi.org/10.6084/m9.figshare.31385290
 
 Please cite the above paper if you use this code or the concepts derived from it in your work.
 ## Core Components and Algorithms Implemented
