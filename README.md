@@ -45,7 +45,7 @@ The script will run through various demonstrations of the implemented algorithms
 ## License
 This project is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)** - see the `LICENSE` file for details.
 **Commercial Licensing:**
-For those interested in integrating the Burnorian Solution framework or its derivatives into proprietary products or services without being subject to the AGPL-3.0's copyleft requirements, please contact [Your Professional Email Address] to discuss commercial licensing options.
+For those interested in integrating the Burnorian Solution framework or its derivatives into proprietary products or services without being subject to the AGPL-3.0's copyleft requirements, please contact IndependentResearchr@pm.me to discuss commercial licensing options.
 ## Limitations and Future Work
 While this framework provides a complete and consistent solution, its current implementation within this demonstrative environment utilizes certain computational simplifications:
 *   **Heuristic Amplitudes and Energy Proxies:** Some Hamiltonian amplitudes and QMC energy functions are heuristic to represent desired physical behaviors, rather than being derived from full GFT calculations.
